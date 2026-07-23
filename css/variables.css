@@ -1,0 +1,31 @@
+:root{
+
+    /* Cores */
+
+    --primary:#E86E8A;
+    --primary-dark:#D45D77;
+    --secondary:#FFC857;
+
+    --background:#FFF8F4;
+
+    --surface:#FFFFFF;
+
+    --border:#EFE4E4;
+
+    --text:#454545;
+
+    --text-light:#777;
+
+    /* Radius */
+
+    --radius-sm:10px;
+    --radius-md:18px;
+    --radius-lg:28px;
+
+    /* Sombras */
+
+    --shadow:
+
+    0 8px 25px rgba(0,0,0,.08);
+
+}
